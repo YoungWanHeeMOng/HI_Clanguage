@@ -1,0 +1,6 @@
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServer\bin\Debug\cs_EchoServer.exe.config
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServer\bin\Debug\cs_EchoServer.exe
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServer\bin\Debug\cs_EchoServer.pdb
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServer\obj\Debug\cs_EchoServerSample.csproj.CoreCompileInputs.cache
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServer\obj\Debug\cs_EchoServer.exe
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServer\obj\Debug\cs_EchoServer.pdb

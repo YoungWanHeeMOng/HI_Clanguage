@@ -1,0 +1,3 @@
+﻿  program.cpp
+D:\NetWorks_Sample\NetWorks_TCPIP\cpp_EchoClientSample\program.cpp(60,9): warning C4101: 're': unreferenced local variable
+  cpp_EchoClientSample.vcxproj -> D:\NetWorks_Sample\NetWorks_TCPIP\x64\Debug\cpp_EchoClientSample.exe

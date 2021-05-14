@@ -1,0 +1,7 @@
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServerClass\bin\Debug\cs_EchoServerClass.exe.config
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServerClass\bin\Debug\cs_EchoServerClass.exe
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServerClass\bin\Debug\cs_EchoServerClass.pdb
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServerClass\obj\Debug\cs_EchoServerClass.csprojAssemblyReference.cache
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServerClass\obj\Debug\cs_EchoServerClass.csproj.CoreCompileInputs.cache
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServerClass\obj\Debug\cs_EchoServerClass.exe
+D:\NetWorks_Sample\NetWorks_TCPIP\cs_EchoServerClass\obj\Debug\cs_EchoServerClass.pdb
